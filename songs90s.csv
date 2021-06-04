@@ -1,0 +1,345 @@
+artist,song,year,recog10Before,recogYearOf,recog10After
+2 Pac,California Love,1996,0.435,0.341,0
+2Pac,How Do U Want It,1996,0.296,0.106,0
+702,Where My Girls At?,1999,0.415,0.226,0
+Ace Of Base,All That She Wants,1993,0.877,0.58,0
+Ace Of Base,Don't Turn Around,1994,0.8,0.443,0
+Ace Of Base,The Sign,1994,0.933,0.766,0
+Adina Howard,Freak Like Me,1995,0.297,0.06,0
+Aerosmith,I Don't Want To Miss A Thing,1998,0.987,0.75,0
+Aerosmith,Janie's Got A Gun,1990,0.833,0.298,0.115
+Alanis Morissette,Ironic,1996,0.95,0.612,0
+Alannah Myles,Black Velvet,1990,0.962,0.567,0.419
+Alias,More Than Words Can Say,1990,0.082,0.075,0.154
+All Saints,Never Ever,1998,0.39,0.088,0
+All-4-One,I Swear,1994,0.893,0.5,0
+Allure,All Cried Out,1997,0.16,0.103,0
+Amy Grant,Baby Baby,1991,0.63,0.109,0
+Amy Grant,Every Heartbeat,1991,0.547,0.107,0
+Atlantic Starr,Masterpiece,1992,0.185,0.058,0
+"B-52's, The",Roam,1990,0.843,0.534,0.143
+BLACKstreet,No Diggity,1996,0.864,0.605,0
+Babyface,When Can I See You,1994,0.34,0.036,0
+"Backstreet Boys, The",Everybody,1998,0.958,0.925,0
+"Backstreet Boys, The",Quit Playing Games,1997,0.811,0.297,0
+Barenaked Ladies,One Week,1998,0.742,0.257,0
+Bell Biv DeVoe,Do Me!,1990,0.48,0.125,0.143
+Bell Biv DeVoe,Poison,1990,0.635,0.507,0.241
+Bette Midler,From A Distance,1990,0.698,0.159,0.182
+Billy Idol,Cradle Of Love,1990,0.343,0.087,0.13
+Billy Joel,The River Of Dreams,1993,0.797,0.313,0
+Billy Ray Cyrus,Achy Breaky Heart,1992,0.928,0.77,0
+Bobby Brown,Humpin' Around,1992,0.521,0.22,0
+Bon Jovi,Always,1994,0.576,0.411,0
+Bone Thugs N Harmony,Look Into My Eyes,1997,0.071,0.021,0
+Bone Thugs N Harmony,Tha Crossroads,1996,0.475,0.058,0
+Boyz II Men,4 Seasons Of Loneliness,1997,0.077,0.07,0
+Boyz II Men,End Of The Road,1992,0.717,0.233,0
+Boyz II Men,I'll Make Love To You,1994,0.564,0.122,0
+Boyz II Men,In The Still Of The Nite,1992,0.387,0.07,0
+Boyz II Men,It's So Hard To Say Goodbye To Yesterday,1991,0.552,0.143,0
+Boyz II Men,Motownphilly,1991,0.614,0.278,0
+Boyz II Men,On Bended Knee,1994,0.482,0.148,0
+Boyz II Men,Water Runs Dry,1995,0.573,0.025,0
+Brandy and Monica,The Boy Is Mine,1998,0.571,0.273,0
+Brandy,Baby,1995,0.375,0.065,0
+Brandy,Have You Ever?,1999,0.309,0.241,0
+Brandy,Sittin' Up In My Room,1996,0.194,0.02,0
+Brian McKnight,Back At One,1999,0.482,0.083,0
+Britney Spears,..Baby One More Time,1999,1,0.933,0
+Bryan Adams,All For Love,1994,0.569,0.143,0
+Bryan Adams,Can't Stop This Thing We Started,1991,0.451,0.224,0
+Bryan Adams,Everything I Do I Do It For You,1991,0.963,0.648,0
+Bryan Adams,Have You Ever Really Loved A Woman?,1995,0.441,0.105,0
+Busta Rhymes,What's It Gonna Be?!,1999,0.111,0.059,0
+C and C Music Factory,Gonna Make You Sweat,1991,0.964,0.831,0
+C and C Music Factory,Here We Go,1991,0.55,0.358,0
+C+C Music Factory,Things That Make You Go Hmmmm,1991,0.559,0.169,0
+Calloway,I Wanna Be Rich,1990,0.213,0.088,0.107
+Cathy Dennis,Touch Me,1991,0.519,0.077,0
+Celine Dion,All By Myself,1997,0.781,0.472,0
+Celine Dion,Because You Loved Me,1996,0.788,0.288,0
+Celine Dion,If You Asked Me To,1992,0.569,0.066,0
+Celine Dion,It's All Coming Back To Me Now,1996,0.621,0.302,0
+Celine Dion,My Heart Will Go On,1998,0.986,0.943,0
+Celine Dion,The Power Of Love,1994,0.78,0.439,0
+Celine Dion,Where Does My Heart Beat Now,1991,0.345,0.127,0
+Changing Faces,Stroke You Up,1994,0.082,0.026,0
+Cher,Believe,1999,0.965,0.971,0
+Christina Aguilera,Genie In A Bottle,1999,0.913,0.714,0
+Color Me Badd,All 4 Love,1991,0.566,0.125,0
+Color Me Badd,I Adore Mi Amor,1991,0.18,0.065,0
+Color Me Badd,I Wanna Sex You Up,1991,0.702,0.333,0
+Coolio,Fantastic Voyage,1994,0.462,0.204,0
+Coolio,Gangsta's Paradise,1995,0.974,0.881,0
+Crash Test Dummies,Mmm Mmm Mmm Mmm,1994,0.596,0.217,0
+D.R.S.,Gangsta Lean,1993,0.106,0.091,0
+DJ Jazzy Jeff and The Fresh Prince,Summertime,1991,0.578,0.479,0
+Damn Yankees,High Enough,1991,0.151,0.095,0
+Deborah Cox,Nobody's Supposed To Be Here,1998,0.255,0.114,0
+Deee-Lite,Groove Is In The Heart,1990,0.946,0.534,0.238
+Destiny's Child,"Bills, Bills, Bills",1999,0.635,0.444,0
+Divine,Lately,1998,0.139,0.125,0
+Donna Lewis,I Love You Always Forever,1996,0.632,0.245,0
+Dr. Dre,Nuthin' But A G Thang,1993,0.688,0.532,0
+Dru Hill,How Deep Is Your Love,1998,0.19,0.073,0
+Dru Hill,In My Bed,1997,0.108,0,0
+Duran Duran,Ordinary World,1993,0.554,0.238,0
+EMF,Unbelievable,1991,0.935,0.458,0
+Elton John,Can You Feel The Love Tonight,1994,0.971,0.829,0
+Elton John,Candle In The Wind,1997,0.562,0.154,0
+En Vogue,Don't Let Go,1996,0.489,0.193,0
+En Vogue,Hold On,1990,0.283,0.159,0.094
+En Vogue,My Lovin',1992,0.828,0.308,0
+Enigma,Return To Innocence,1994,0.8,0.22,0
+Enrique Iglesias,Bailamos,1999,0.929,0.567,0
+Eric Clapton,Tears In Heaven,1992,0.867,0.28,0
+Everything But The Girl,Missing,1996,0.536,0.044,0
+Extreme,Hole Hearted,1991,0.25,0.074,0
+Extreme,More Than Words,1991,0.837,0.534,0
+George Michael,Don't Let The Sun Go Down On Me,1992,0.588,0.196,0
+George Michael,Praying For Time,1990,0.163,0.074,0
+Glenn Medeiros,She Ain't Worth It,1990,0.082,0.066,0.2
+Gloria Estefan,Coming Out Of The Dark,1991,0.125,0.053,0
+Guns N' Roses,November Rain,1992,0.667,0.333,0
+H-Town,Knockin' Da Boots,1993,0.103,0.014,0
+Hanson,MMMbop,1997,0.786,0.314,0
+Heart,All I Wanna Do Is Make Love To You,1990,0.558,0.311,0.093
+"Heights, The",How Do You Talk To An Angel,1992,0.537,0.073,0
+Hi-Five,I Like The Way,1991,0.281,0.12,0
+House Of Pain,Jump Around,1992,0.931,0.895,0
+Ini Kamoze,Here Comes The Hotstepper,1994,0.87,0.38,0
+Jade,Don't Walk Away,1993,0.278,0.115,0
+James Ingram,I Don't Have The Heart,1990,0.455,0.217,0.172
+Jane Child,Don't Wanna Fall In Love,1990,0.25,0.059,0.152
+Janet Jackson,Again,1993,0.603,0.148,0
+Janet Jackson,Alright,1990,0.438,0.098,0
+Janet Jackson,And On And On,1994,0.2,0.043,0
+Janet Jackson,"Any Time, Any Place",1994,0.064,0.073,0
+Janet Jackson,Black Cat,1990,0.205,0.134,0.074
+Janet Jackson,Come Back To Me,1990,0.289,0.079,0.091
+Janet Jackson,Escapade,1990,0.448,0.158,0.12
+Janet Jackson,If,1993,0.383,0.109,0
+Janet Jackson,Love Will Never Do,1991,0.5,0.056,0
+Janet Jackson,Runaway,1995,0.525,0.068,0
+Janet Jackson,That's The Way Love Goes,1993,0.435,0.13,0
+Janet,I Get Lonely,1998,0.153,0.133,0
+Janet,Together Again,1997,0.521,0.123,0
+Jennifer Lopez,If You Had My Love,1999,0.774,0.171,0
+Jennifer Paige,Crush,1998,0.634,0.278,0
+Jessica Simpson,I Wanna Love You Forever,1999,0.145,0.16,0
+Jesus Jones,"Real, Real, Real",1991,0.133,0.036,0
+Jesus Jones,"Right Here, Right Now",1991,0.725,0.309,0
+Jewel,You Were Meant For Me,1997,0.581,0.2,0
+Joan Osborne,One Of Us,1996,0.902,0.675,0
+Jodeci,Lately,1993,0.106,0.137,0
+Jody Watley,Everything,1990,0.105,0.06,0.111
+Joe Public,Live And Learn,1992,0.349,0.217,0
+John Mellencamp,Wild Night,1994,0.413,0.08,0
+Johnny Gill,Rub You The Right Way,1990,0.238,0.079,0.205
+Jon Bon Jovi,Blaze Of Glory,1990,0.426,0.175,0.071
+K-Ci and JoJo,All My Life,1998,0.547,0.231,0
+K-Ci and JoJo,Tell Me It's Real,1999,0.297,0.037,0
+Karyn White,Romantic,1991,0.25,0.063,0
+Keith Sweat,Nobody,1996,0.167,0.061,0
+Keith Sweat,Twisted,1996,0.186,0.119,0
+Kris Kross,Jump,1992,0.771,0.627,0
+LFO,Summer Girls,1999,0.453,0.158,0
+LL Cool J,Hey Lover,1995,0.407,0.149,0
+LL Cool J,Loungin',1996,0.165,0.025,0
+LSG,My Body,1997,0.117,0.114,0
+Lauryn Hill,Doo Wop,1998,0.516,0.122,0
+LeAnn Rimes,How Do I Live,1997,0.574,0.1,0
+Lenny Kravitz,It Ain't Over Til It's Over,1991,0.877,0.5,0
+Lisa Loeb and Nine Stories,Stay,1994,0.61,0.095,0
+Lisa Stansfield,All Around The World,1990,0.804,0.408,0.2
+Londonbeat,I've Been Thinking About You,1991,0.773,0.268,0
+Los Del Rio,Macarena,1996,0.984,0.922,0
+Lou Bega,Mambo No. 5,1999,0.935,0.957,0
+Luther Vandross,Endless Love,1994,0.588,0.17,0
+Luther Vandross,Power Of Love,1991,0.271,0.227,0
+M.C. Hammer,Have You Seen Her,1990,0.265,0.077,0.114
+M.C. Hammer,Pray,1990,0.472,0.219,0.071
+Madonna,Erotica,1992,0.507,0.13,0
+Madonna,Frozen,1998,0.469,0.257,0
+Madonna,I'll Remember,1994,0.417,0.22,0
+Madonna,Justify My Love,1990,0.5,0.092,0.056
+Madonna,Secret,1994,0.75,0.176,0
+Madonna,Take A Bow,1995,0.46,0.074,0
+Madonna,This Used To Be My Playground,1992,0.438,0.06,0
+Madonna,Vogue,1990,0.976,0.647,0.586
+Marc Anthony,I Need To Know,1999,0.733,0.2,0
+Mariah Carey,Always Be My Baby,1996,0.755,0.37,0
+Mariah Carey,Can't Let Go,1992,0.319,0.145,0
+Mariah Carey,Dreamlover,1993,0.692,0.281,0
+Mariah Carey,Emotions,1991,0.604,0.255,0
+Mariah Carey,Fantasy,1995,0.75,0.148,0
+Mariah Carey,Heartbreaker,1999,0.456,0.222,0
+Mariah Carey,Hero,1993,0.557,0.356,0
+Mariah Carey,Honey,1997,0.373,0.143,0
+Mariah Carey,I Don't Wanna Cry,1991,0.5,0.105,0
+Mariah Carey,I Still Believe,1999,0.3,0.188,0
+Mariah Carey,I'll Be There,1992,0.717,0.438,0
+Mariah Carey,Love Takes Time,1990,0.524,0.177,0.314
+Mariah Carey,My All,1998,0.4,0.14,0
+Mariah Carey,Never Forget You,1994,0.409,0.224,0
+Mariah Carey,One Sweet Day,1995,0.768,0.205,0
+Mariah Carey,Someday,1991,0.386,0.107,0
+Mariah Carey,Vision Of Love,1990,0.313,0.183,0.071
+Mariah Carey,Without You,1994,0.679,0.551,0
+Mark Morrison,Return Of The Mack,1997,0.648,0.229,0
+Marky Mark and The Funky Bunch,Good Vibrations,1991,0.795,0.689,0
+Mary J. Blige,Not Gon' Cry,1996,0.059,0.047,0
+Maxi Priest,Close To You,1990,0.615,0.217,0.12
+Maxwell,Fortunate,1999,0.016,0.083,0
+Meat Loaf,I'd Do Anything For Love,1993,0.772,0.286,0
+Meredith Brooks,Bitch,1997,0.631,0.262,0
+Merril Bainbridge,Mouth,1996,0.373,0.055,0
+Method Man,I'll Be There For You,1995,0.217,0.045,0
+Michael Bolton,How Am I Supposed To Live Without You,1990,0.6,0.393,0.231
+Michael Bolton,How Can We Be Lovers,1990,0.615,0.346,0.154
+Michael Bolton,Love Is A Wonderful Thing,1991,0.422,0.188,0
+Michael Bolton,When A Man Loves A Woman,1991,0.66,0.311,0
+Michael Jackson,Black Or White,1991,0.981,0.811,0
+Michael Jackson,Remember The Time,1992,0.778,0.614,0
+Michael Jackson,You Are Not Alone,1995,0.903,0.655,0
+Milli Vanilli,All Or Nothing,1990,0.22,0.083,0.043
+Monica,Angel Of Mine,1999,0.333,0.074,0
+Monica,Don't Take It Personal,1995,0.373,0.091,0
+Monica,For You I Will,1997,0.477,0.098,0
+Monica,The First Night,1998,0.087,0.105,0
+Montell Jordan,Let's Ride,1998,0.043,0.047,0
+Montell Jordan,This Is How We Do It,1995,0.867,0.55,0
+Mr. Big,To Be With You,1992,0.759,0.315,0
+Nelson,Can't Live Without Your Love And Affection,1990,0.233,0.115,0.103
+New Edition,Hit Me Off,1996,0.089,0.051,0
+New Kids On The Block,Step By Step,1990,0.628,0.191,0.182
+Next,Too Close,1998,0.455,0.2,0
+Nicki French,Total Eclipse Of The Heart,1995,0.763,0.612,0
+"Notorious B.I.G., The",Hypnotize,1997,0.534,0.463,0
+"Notorious B.I.G., The","Mo Money, Mo Problems",1997,0.662,0.395,0
+"Notorious B.I.G., The",One More Chance-Stay With Me,1995,0.5,0.183,0
+"Notorious B.I.G., The",The What,1995,0.442,0.467,0
+Onyx,Slam,1993,0.452,0.34,0
+PM Dawn,I'd Die Without You,1992,0.08,0.047,0
+PM Dawn,Set Adrift On Memory Bliss,1991,0.472,0.154,0
+Patty Smyth,Sometimes Love Just Ain't Enough,1992,0.587,0.135,0
+Paula Abdul,Opposites Attract,1990,0.605,0.2,0.158
+Paula Abdul,Rush Rush,1991,0.479,0.077,0
+Paula Abdul,The Promise Of A New Day,1991,0.439,0.063,0
+Peabo Bryson and Regina Bell,A Whole New World,1993,0.851,0.778,0
+Pearl Jam,Last Kiss,1999,0.646,0.208,0
+Pebbles,Giving You The Benefit,1990,0.2,0.132,0.038
+Phil Collins,Do You Remember?,1990,0.22,0.154,0.088
+Phil Collins,I Wish It Would Rain Down,1990,0.425,0.125,0.071
+Phil Collins,Something Happened On The Way To Heaven,1990,0.72,0.413,0.188
+Poison,Something To Believe In,1990,0.208,0.058,0.08
+Poison,Unskinny Bop,1990,0.364,0.145,0.081
+Prince,Diamonds And Pearls,1992,0.102,0.048,0
+"Proclaimers, The",I'm Gonna Be,1993,0.823,0.82,0
+Puff Daddy and Faith Evans,I'll Be Missing You,1997,0.969,0.816,0
+Puff Daddy,Been Around The World,1998,0.292,0.152,0
+Puff Daddy,Can't Nobody Hold Me Down,1997,0.438,0.434,0
+Puff Daddy,Satisfy You,1999,0.159,0.258,0
+Quad City DJ's,C'Mon N' Ride It,1996,0.371,0.022,0
+R. Kelly,Bump N' Grind,1994,0.273,0.191,0
+R. Kelly,Down Low,1996,0.125,0.043,0
+R. Kelly,I Believe I Can Fly,1996,0.962,0.83,0
+R. Kelly,I'm Your Angel,1998,0.304,0.111,0
+R. Kelly,You Remind Me Of Something,1995,0.185,0.034,0
+R.E.M.,Losing My Religion,1991,0.965,0.836,0
+Ralph Tresvant,Sensitivity,1991,0.155,0.15,0
+Real McCoy,Another Night,1994,0.846,0.548,0
+Real McCoy,Run Away,1995,0.686,0.196,0
+Red Hot Chili Peppers,Under The Bridge,1992,0.927,0.75,0
+Ricky Martin,Livin' La Vida Loca,1999,0.952,0.6,0
+Ricky Martin,She's All I Ever Had,1999,0.333,0.143,0
+Right Said Fred,I'm Too Sexy,1992,0.841,0.542,0
+Rod Stewart,Downtown Train,1990,0.451,0.117,0.115
+Roxette,Dangerous,1990,0.226,0.075,0.217
+Roxette,Fading Like A Flower,1991,0.157,0.114,0
+Roxette,It Must Have Been Love,1990,0.917,0.695,0.35
+Roxette,Joyride,1991,0.574,0.167,0
+SWV,Right Here,1993,0.34,0.118,0
+SWV,Weak,1993,0.217,0.07,0
+Salt 'N Pepa,Shoop,1993,0.672,0.292,0
+Salt 'N Pepa,Whatta Man,1994,0.926,0.425,0
+Santana,Smooth,1999,0.984,0.483,0
+Sarah McLachlan,Adia,1998,0.4,0.154,0
+Sarah McLachlan,Angel,1999,0.5,0.321,0
+Savage Garden,I Knew I Loved You,1999,0.686,0.286,0
+Savage Garden,I Want You,1997,0.613,0.171,0
+Savage Garden,Truly Madly Deeply,1998,0.583,0.13,0
+Scorpions,Wind Of Change,1991,0.419,0.159,0
+Seal,Kiss From A Rose,1995,0.972,0.6,0
+Seduction,Two To Make It Right,1990,0.474,0.188,0.038
+Shaggy,Boombastic,1995,0.793,0.37,0
+Shai,If I Ever Fall In Love,1992,0.34,0.137,0
+Shania Twain,From This Moment On,1998,0.525,0.206,0
+Shania Twain,You're Still The One,1998,0.831,0.172,0
+Shanice,I Love Your Smile,1992,0.453,0.173,0
+Shanice,Saving Forever For You,1993,0.14,0.127,0
+Sheryl Crow,All I Wanna Do,1994,0.925,0.554,0
+Silk,Freak Me,1993,0.188,0.036,0
+Sinead O'Connor,Nothing Compares 2 U,1990,0.721,0.207,0.071
+Sir Mix-A-Lot,Baby Got Back,1992,0.877,0.817,0
+Sixpence None The Richer,Kiss Me,1999,0.865,0.64,0
+Smash Mouth,All Star,1999,0.942,0.926,0
+Snap!,The Power,1990,0.933,0.887,0.852
+Snow,Informer,1993,0.696,0.4,0
+Somethin' For The People,My Love Is The Shhh!,1997,0.192,0.034,0
+Soul For Real,Candy Rain,1995,0.242,0.14,0
+"Spice Girls, The",Wannabe,1997,1,0.938,0
+Stevie B,Because I Love You,1990,0.302,0.094,0.067
+Styx,Show Me The Way,1991,0.205,0.159,0
+Sugar Ray,Every Morning,1999,0.629,0.097,0
+Surface,The First Time,1991,0.138,0.024,0
+Sweet Sensation,If Wishes Came True,1990,0.204,0.062,0.069
+TLC,Baby-Baby-Baby,1992,0.338,0.022,0
+TLC,Creep,1995,0.643,0.245,0
+TLC,No Scrubs,1999,0.838,0.515,0
+TLC,Red Light Special,1995,0.358,0.061,0
+TLC,Unpretty,1999,0.519,0.16,0
+TLC,Waterfalls,1995,0.872,0.614,0
+Tag Team,Whoomp! There It Is,1993,0.86,0.695,0
+Tara Kemp,Hold You Tight,1991,0.125,0.032,0
+Taylor Dayne,I'll Be Your Shelter,1990,0.261,0.102,0.08
+Taylor Dayne,Love Will Lead You Back,1990,0.209,0.061,0.073
+Technotronic,Pump Up The Jam,1990,0.882,0.689,0.323
+Third Eye Blind,Semi-Charmed Life,1997,0.783,0.543,0
+Timmy T,One More Try,1991,0.333,0.067,0
+Tommy Page,I'll Be Your Everything,1990,0.102,0.075,0
+Toni Braxton,Breathe Again,1994,0.339,0.113,0
+Toni Braxton,Un-Break My Heart,1996,0.932,0.667,0
+Toni Braxton,You're Makin' Me High,1996,0.288,0.111,0
+Tony Rich Project,Nobody Knows,1996,0.379,0.021,0
+Tracie Spencer,This House,1991,0.151,0.054,0
+Tracy Chapman,Give Me One Reason,1996,0.566,0.156,0
+UB40,Can't Help Falling In Love,1993,0.737,0.322,0
+Usher,My Way,1998,0.262,0.132,0
+Usher,Nice and Slow,1998,0.164,0.045,0
+Usher,You Make Me Wanna..,1997,0.45,0.133,0
+Vanessa Williams and Brian McKnight,Love Is,1993,0.328,0.159,0
+Vanessa Williams,Colors Of The Wind,1995,0.71,0.521,0
+Vanessa Williams,Save The Best For Last,1992,0.691,0.209,0
+Vanilla Ice,Ice Ice Baby,1990,0.867,0.64,0.458
+Vanilla Ice,Play That Funky Music,1991,0.615,0.492,0
+Warren G,Regulate,1994,0.585,0.32,0
+Whitney Houston,All The Man That I Need,1991,0.294,0.175,0
+Whitney Houston,Exhale,1995,0.477,0.125,0
+Whitney Houston,Heartbreak Hotel,1999,0.263,0.033,0
+Whitney Houston,I Believe In You And Me,1997,0.324,0.289,0
+Whitney Houston,I Have Nothing,1993,0.758,0.434,0
+Whitney Houston,I Will Always Love You,1992,0.98,0.864,0
+Whitney Houston,I'm Every Woman,1993,0.607,0.412,0
+Whitney Houston,I'm Your Baby Tonight,1990,0.614,0.288,0.053
+Whitney Houston,It's Not Right But It's Okay,1999,0.525,0.2,0
+Will Smith,Gettin' Jiggy Wit It,1998,0.846,0.386,0
+Will Smith,Wild Wild West,1999,0.833,0.241,0
+Wilson Phillips,Hold On,1990,0.717,0.527,0.125
+Wilson Phillips,Impulsive,1990,0.359,0.047,0.129
+Wilson Phillips,Release Me,1990,0.491,0.049,0.086
+Wilson Phillips,You're In Love,1991,0.352,0.092,0
+Wreckx-N-Effect,Rump Shaker,1992,0.635,0.182,0
+Xscape,Just Kickin' It,1993,0.185,0.016,0
+diVINYLS,I Touch Myself,1991,0.545,0.379,0
