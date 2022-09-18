@@ -1,0 +1,81 @@
+name,brand,style,menWomen,price,maxHeightFront,maxWidthFront,maxHeightBack,maxWidthBack
+Fave Super Skinny,Arizona,skinny,women,42,14.5,16.5,15,13.7
+Perfect Boot,Arizona,straight,women,42,14.5,16,15.5,13
+Modern Skinny Slimming Fit,Ralph Lauren,skinny,women,89.5,13,14.5,15.5,13.5
+Premier Straight Slimming Fit,Ralph Lauren,straight,women,89.5,13,14.5,14.5,13
+Skinny Fit,Uniqlo,skinny,women,39.9,13,14,14,14.2
+High-Rise Straight,Uniqlo,straight,women,39.9,15.5,16.5,14.5,12.5
+Midrise Skinny,Calvin Klein,skinny,women,79.5,12,14.5,16.5,13
+Straight,Calvin Klein,straight,women,69.5,14,15.5,15,14
+Ava Mid Rise Skinny,Lucky,skinny,women,99,13,13.5,16,14.5
+Sweet Boot,Lucky,straight,women,79.5,15,15.5,14.5,13
+711 Skinny,Levi's,skinny,women,54.5,12.5,15,14.5,12
+Classic Bootcut,Levi's,straight,women,54.5,12.2,17,15.5,12.5
+Riders Midrise Skinny,Lee,skinny,women,19.94,13.7,18.5,14.5,14
+Riders Midrise Straight,Lee,straight,women,19.94,13.5,17,15,14.5
+The Ankle Skinny,7 for All Mankind,skinny,women,199,13,15,16.5,12.5
+Bootcut,7 for All Mankind,straight,women,159,14,15,15.5,12.5
+Stella,True Religion,skinny,women,179,14,15,13,11.5
+Slim Straight,True Religion,straight,women,249,14.5,14,14.7,13
+Power Stretch Skinny,Guess,skinny,women,98,11.5,14.5,14.7,12.5
+Tailored Mini Boot,Guess,straight,women,89,12.5,14,14.5,13.5
+Greenwich Skinny,Tommy Hilfiger,skinny,women,69.5,12.5,16,14,13
+Tribeca Straight,Tommy Hilfiger,straight,women,69.5,15,16.7,15.5,15
+Skinny Midrise,Express,skinny,women,79.9,15.7,16,16.5,14
+Barely Boot Midrise,Express,straight,women,79.9,15.5,15.2,15.5,15
+Vintage Fit High Waist,H&M,straight,women,49.99,14.5,14,16,13
+Skinny Ankle High Waist,H&M,skinny,women,9.99,19,14.5,15,12.5
+Original Boot Cut,Old Navy,boot-cut,women,29.99,12,14.5,15,13.5
+Original Skinny,Old Navy,skinny,women,29.99,14.5,14,16.5,13
+Vintage Straight,J. Crew,straight,women,125,14,15.5,15,14.5
+"8"" Tooth Pick",J. Crew,skinny,women,110,11.5,15,14.5,13.5
+Perfect Boot,Gap,boot-cut,women,69.95,14,12,15,13.5
+True Skinny Mid-Rise,Gap,skinny,women,69.95,13,12.5,15.5,13
+Ne(x)t Level Stretch Skinny,American Eagle,skinny,women,39.95,19,14,15,12.5
+Super Stretch Kick Boot,American Eagle,boot-cut,women,39.95,16,13.5,15,13
+Simone High Rise Slim,Abercrombie,skinny,women,88,21.5,15.5,16,12.5
+Simone High Rise Ankle Straight,Abercrombie,straight,women,78,18,18.5,16,14
+Born Ready Skinny Jean,Wrangler,skinny,women,99,14,17,15,14.5
+Acid Wash Fringe Hem Crop,Wrangler,straight,women,99,15,15,16,13.2
+Skinny Fit,Arizona,skinny,men,50,26,17,17,14
+Original Bootcut,Arizona,boot-cut,men,50,24.5,18,16,15.2
+Varick Slim Straight,Ralph Lauren,slim,men,89.5,23,15.5,16,15
+Hampton Straight,Ralph Lauren,straight,men,89.5,24,17.5,17,15
+Skinny,Guess,skinny,men,98,22.5,14,17,14.5
+Regular Straight,Guess,straight,men,98,25.5,17.5,16,14
+Skinny,Calvin Klein,skinny,men,89.5,22,15,16.5,14.2
+Straight,Calvin Klein,straight,men,69.5,21.5,18,17,15.5
+510 Skinny,Levi's,skinny,men,69.5,25.5,14.5,16.5,13
+569 Loose Straight,Levi's,straight,men,59.5,26,16.5,15,13.2
+Skinny Ultra Stretch,Uniqlo,skinny,men,49.9,22.5,15.5,14.5,13
+Regular,Uniqlo,regular,men,49.9,21.5,16,15,14
+Super Skinny Stretch,Express,skinny,men,88,20.5,15.5,16,14
+Classic Boot Stretch,Express,boot-cut,men,79.9,21.5,16,16.2,13.5
+121 Slim,Lucky,slim,men,99,21,16.7,15.2,14.5
+363 New Vintage Straight,Lucky,straight,men,129,22.5,17,16.2,13
+Paxtyn,7 for all Mankind,skinny,men,209,21,16.5,15.5,14.5
+The Straight,7 for all Mankind,straight,men,179,21.5,16.5,16,14
+Geno Slim,True Religion,slim,men,159,26.2,15.2,15,13
+Ricky Relaxed Straight,True Religion,straight,men,179,21,16.5,16,13.5
+484 Slim,J. Crew,skinny,men,98,25,17,15,12.5
+770 Straight,J. Crew,straight,men,98,22.5,14.5,15.5,13.5
+Skinny,Old Navy,skinny,men,39.99,24.5,15.5,15.5,13
+boot-cut,Old Navy,boot-cut,men,39.99,24.5,17,14,12
+Original Boot,Gap,boot-cut,men,59.95,23,17.5,15.5,14
+Skinny,Gap,skinny,men,69.95,22,17.5,15.5,13.5
+Skinny,H&M,skinny,men,39.99,20,14.5,16.5,13.5
+Straight,H&M,straight,men,49.99,21.5,16.5,16,14.5
+NE(X)T Level Flex Skinny,American Eagle,skinny,men,49.95,21,14.5,15,11.5
+Straight,American Eagle,straight,men,49.95,22,16.5,17,13.5
+Kennan Straight,Abercrombie,straight,men,78,22.5,16,16,13
+Langdon Slim,Abercrombie,slim,men,78,22,17,17.5,14
+Slim,Tommy Hilfiger,slim,men,59.5,25,17,15,12.5
+Bootcut,Tommy Hilfiger,boot-cut,men,59.5,22.5,18.2,17,13
+Modern Series Slim Tapered Leg,Lee,slim,men,48,25.5,16.5,16.5,14
+Modern Series Straight Leg,Lee,straight,men,48,24.5,16.2,17.5,15
+Slim Fit,Wrangler,slim,men,58,27.5,17.5,17,13
+Regular Fit,Wrangler,boot-cut,men,48,28,13,16.7,14.5
+Fit No. 76 Bootcut Mid-Rise Curvy,Buckle Black,boot-cut,women,89.95,15,16,14.5,13.5
+Fit No. 53 Straight Mid-Rise Slim,Buckle Black,skinny,women,92.95,14.5,16,14,14
+Fit No. 9 Bootleg,Buckle Black,boot-cut,men,94.95,21,18.5,16,13
+Fit No. 3 Straight Leg Slim Fit,Buckle Black,slim,men,94.95,21,19,16,14
